@@ -137,22 +137,23 @@ primary_web_endpoint = "[https://mystaticwebstorage2026.z13.web.core.windows.net
 Terraform apply
 
 <img width="1151" height="680" alt="image" src="https://github.com/user-attachments/assets/d9d50b3a-bf46-4a79-9817-ba087cb42a7a" />
+<img width="1151" height="680" alt="image" src="https://github.com/user-attachments/assets/52d70b2f-1e4f-45b7-a1f7-f9de86a0619e" />
+<img width="745" height="695" alt="image" src="https://github.com/user-attachments/assets/0272b1df-74ec-4195-af63-e77e13c25ea4" />
+<img width="1341" height="668" alt="image" src="https://github.com/user-attachments/assets/af3fb4f8-870c-4a86-8f11-46815c859424" />
 
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
 
 * Evidencia del portal de Azure
+<img width="1359" height="651" alt="image" src="https://github.com/user-attachments/assets/e54673c7-84e3-490f-a584-158d23673293" />
+<img width="1353" height="639" alt="image" src="https://github.com/user-attachments/assets/c93cc130-1d52-44f0-a5b6-73f1ab04216a" />
 
-![alt text](image-4.png)
-![alt text](image-5.png)
 
 * Evidencia del Contenedor Web en el portal AZURE
   
-![alt text](image-6.png)
+<img width="1365" height="640" alt="image" src="https://github.com/user-attachments/assets/fa215f2d-27e4-4298-bc9b-4e1bec6d3393" />
+
 
 * Evidencia del Sitio Web en Vivo
 
-![alt text](image-7.png)
+<img width="1351" height="671" alt="image" src="https://github.com/user-attachments/assets/77a74fde-00a4-4175-a2e4-a5512a090062" />
+
