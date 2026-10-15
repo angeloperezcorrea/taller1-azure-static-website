@@ -136,6 +136,9 @@ primary_web_endpoint = "[https://mystaticwebstorage2026.z13.web.core.windows.net
 
 Terraform apply
 
+<img width="1151" height="680" alt="image" src="https://github.com/user-attachments/assets/d9d50b3a-bf46-4a79-9817-ba087cb42a7a" />
+
+
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
