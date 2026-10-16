@@ -4,7 +4,7 @@
 
 ## 1. Enlaces del Proyecto
 - **URL del Repositorio en GitHub:** [https://github.com/angeloperezcorrea/taller1-azure-static-website](https://github.com/angeloperezcorrea/taller1-azure-static-website)
-- **URL Pública de la Aplicación en Vivo:** `https://mystaticwebstorage2026.z13.web.core.windows.net/`
+- **URL Pública de la Aplicación :** `https://mystaticwebstorage2026.z13.web.core.windows.net/`
 
 ---
 
